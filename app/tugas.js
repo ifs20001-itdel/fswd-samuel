@@ -1,3 +1,11 @@
+/*
+Nama	: Samuel Adika Lumbantobing
+Kampus	: IT Del
+Kelas	: FSWD (Kelas B)
+*/
+
+//========================================
+
 function getRandomNumber(excludedNumbers) {
     let randomNumber;
     do {
